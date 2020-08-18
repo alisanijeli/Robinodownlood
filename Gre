@@ -1,0 +1,6 @@
+[{"اسم":"علی","ایدی":"sketchware_1020Intent jjjjjjjjjjjhhhggfff = new Intent();
+jjjjjjjjjjjhhhggfff.setAction(Intent.ACTION_VIEW);
+ jjjjjjjjjjjhhhggfff.setData(Uri.parse("rubika://l.rubika.ir/".concat("sketchware_1020"))); startActivity(jjjjjjjjjjjhhhggfff);
+"}]Intent jjjjjjjjjjjhhhggfff = new Intent();
+jjjjjjjjjjjhhhggfff.setAction(Intent.ACTION_VIEW);
+ jjjjjjjjjjjhhhggfff.setData(Uri.parse("rubika://l.rubika.ir/".concat("sketchware_1020"))); startActivity(jjjjjjjjjjjhhhggfff);
